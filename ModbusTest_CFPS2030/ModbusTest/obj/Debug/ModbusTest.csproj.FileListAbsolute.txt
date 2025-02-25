@@ -1,0 +1,115 @@
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.AssemblyReference.cache
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Properties.Resources.resources
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.GenerateResource.cache
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CopyComplete
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Read.resources
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\bin\Debug\S7.Net.dll
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\bin\Debug\S7.Net.xml
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.AssemblyReference.cache
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Read.resources
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Properties.Resources.resources
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.GenerateResource.cache
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.config
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.pdb
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\bin\Debug\S7.Net.dll
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\bin\Debug\S7.Net.xml
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CopyComplete
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.pdb
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.manifest
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.application
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.TrustInfo.xml
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe.manifest
+C:\Users\Deepak\Desktop\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.application
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.config
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.manifest
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.application
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.pdb
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\bin\Debug\EasyModbus.dll
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\bin\Debug\S7.Net.dll
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\bin\Debug\S7.Net.xml
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.AssemblyReference.cache
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Read.resources
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Properties.Resources.resources
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.GenerateResource.cache
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.TrustInfo.xml
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe.manifest
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.application
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CopyComplete
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe
+C:\Users\Deepak\Desktop\MBToS7_Net452\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.pdb
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.config
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.manifest
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.application
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.pdb
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.TrustInfo.xml
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe.manifest
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.application
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe
+C:\Users\Deepak\source\repos\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.pdb
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.AssemblyReference.cache
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.SuggestedBindingRedirects.cache
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Read.resources
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Properties.Resources.resources
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.GenerateResource.cache
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CoreCompileInputs.cache
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.TrustInfo.xml
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.pdb
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.config
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.manifest
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.application
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.pdb
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\bin\Debug\S7.Net.dll
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\bin\Debug\S7.Net.xml
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe.manifest
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.application
+E:\Test\Visual Studio Projects\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CopyComplete
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.config
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe.manifest
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.application
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.exe
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\bin\Debug\ModbusT_452.pdb
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\bin\Debug\S7.Net.dll
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\bin\Debug\S7.Net.xml
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.AssemblyReference.cache
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.SuggestedBindingRedirects.cache
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Read.resources
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusTest.Properties.Resources.resources
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.GenerateResource.cache
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CoreCompileInputs.cache
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.TrustInfo.xml
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe.manifest
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.application
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusTest.csproj.CopyComplete
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.exe
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest\ModbusTest\obj\Debug\ModbusT_452.pdb
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\bin\Debug\ModbusT_452.exe.config
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\bin\Debug\ModbusT_452.exe.manifest
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\bin\Debug\ModbusT_452.application
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\bin\Debug\ModbusT_452.exe
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\bin\Debug\ModbusT_452.pdb
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\bin\Debug\S7.Net.dll
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\bin\Debug\S7.Net.xml
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusTest.csproj.AssemblyReference.cache
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusTest.csproj.SuggestedBindingRedirects.cache
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusTest.Read.resources
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusTest.Properties.Resources.resources
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusTest.csproj.GenerateResource.cache
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusTest.csproj.CoreCompileInputs.cache
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusT_452.TrustInfo.xml
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusT_452.exe.manifest
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusT_452.application
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusTest.csproj.CopyComplete
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusT_452.exe
+D:\Software\CFPS-Modbus-FilamentHours\ModbusTest_CFPS2030\ModbusTest\obj\Debug\ModbusT_452.pdb
